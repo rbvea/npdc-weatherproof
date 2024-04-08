@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative flex items-center justify-center min-h-screen bg-beige px-4 sm:pt-0"
+    class="kontainer relative flex items-center justify-center bg-beige px-4 sm:pt-0"
   >
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8 text-center text-blue">
       <h1 class="text-2xl mb-2 font-light">Your Spring word:</h1>
